@@ -1,0 +1,337 @@
+{
+ "tractates": [
+  {
+   "en": "Berakhot",
+   "he": "ברכות",
+   "file": "Berakhot.json",
+   "daf_count": 125,
+   "has_vocalized": true,
+   "first_daf": "2a",
+   "last_daf": "64a"
+  },
+  {
+   "en": "Shabbat",
+   "he": "שבת",
+   "file": "Shabbat.json",
+   "daf_count": 312,
+   "has_vocalized": true,
+   "first_daf": "2a",
+   "last_daf": "157b"
+  },
+  {
+   "en": "Eruvin",
+   "he": "עירובין",
+   "file": "Eruvin.json",
+   "daf_count": 207,
+   "has_vocalized": true,
+   "first_daf": "2a",
+   "last_daf": "105a"
+  },
+  {
+   "en": "Pesachim",
+   "he": "פסחים",
+   "file": "Pesachim.json",
+   "daf_count": 240,
+   "has_vocalized": true,
+   "first_daf": "2a",
+   "last_daf": "121b"
+  },
+  {
+   "en": "Yoma",
+   "he": "יומא",
+   "file": "Yoma.json",
+   "daf_count": 173,
+   "has_vocalized": true,
+   "first_daf": "2a",
+   "last_daf": "88a"
+  },
+  {
+   "en": "Sukkah",
+   "he": "סוכה",
+   "file": "Sukkah.json",
+   "daf_count": 110,
+   "has_vocalized": true,
+   "first_daf": "2a",
+   "last_daf": "56b"
+  },
+  {
+   "en": "Beitzah",
+   "he": "ביצה",
+   "file": "Beitzah.json",
+   "daf_count": 78,
+   "has_vocalized": true,
+   "first_daf": "2a",
+   "last_daf": "40b"
+  },
+  {
+   "en": "Rosh Hashanah",
+   "he": "ראש השנה",
+   "file": "Rosh_Hashanah.json",
+   "daf_count": 67,
+   "has_vocalized": true,
+   "first_daf": "2a",
+   "last_daf": "35a"
+  },
+  {
+   "en": "Taanit",
+   "he": "תענית",
+   "file": "Taanit.json",
+   "daf_count": 59,
+   "has_vocalized": true,
+   "first_daf": "2a",
+   "last_daf": "31a"
+  },
+  {
+   "en": "Megillah",
+   "he": "מגילה",
+   "file": "Megillah.json",
+   "daf_count": 61,
+   "has_vocalized": true,
+   "first_daf": "2a",
+   "last_daf": "32a"
+  },
+  {
+   "en": "Moed Katan",
+   "he": "מועד קטן",
+   "file": "Moed_Katan.json",
+   "daf_count": 55,
+   "has_vocalized": true,
+   "first_daf": "2a",
+   "last_daf": "29a"
+  },
+  {
+   "en": "Chagigah",
+   "he": "חגיגה",
+   "file": "Chagigah.json",
+   "daf_count": 51,
+   "has_vocalized": true,
+   "first_daf": "2a",
+   "last_daf": "27a"
+  },
+  {
+   "en": "Yevamot",
+   "he": "יבמות",
+   "file": "Yevamot.json",
+   "daf_count": 242,
+   "has_vocalized": true,
+   "first_daf": "2a",
+   "last_daf": "122b"
+  },
+  {
+   "en": "Ketubot",
+   "he": "כתובות",
+   "file": "Ketubot.json",
+   "daf_count": 222,
+   "has_vocalized": true,
+   "first_daf": "2a",
+   "last_daf": "112b"
+  },
+  {
+   "en": "Nedarim",
+   "he": "נדרים",
+   "file": "Nedarim.json",
+   "daf_count": 180,
+   "has_vocalized": true,
+   "first_daf": "2a",
+   "last_daf": "91b"
+  },
+  {
+   "en": "Nazir",
+   "he": "נזיר",
+   "file": "Nazir.json",
+   "daf_count": 129,
+   "has_vocalized": true,
+   "first_daf": "2a",
+   "last_daf": "66b"
+  },
+  {
+   "en": "Sotah",
+   "he": "סוטה",
+   "file": "Sotah.json",
+   "daf_count": 96,
+   "has_vocalized": true,
+   "first_daf": "2a",
+   "last_daf": "49b"
+  },
+  {
+   "en": "Gittin",
+   "he": "גיטין",
+   "file": "Gittin.json",
+   "daf_count": 178,
+   "has_vocalized": true,
+   "first_daf": "2a",
+   "last_daf": "90b"
+  },
+  {
+   "en": "Kiddushin",
+   "he": "קידושין",
+   "file": "Kiddushin.json",
+   "daf_count": 162,
+   "has_vocalized": true,
+   "first_daf": "2a",
+   "last_daf": "82b"
+  },
+  {
+   "en": "Bava Kamma",
+   "he": "בבא קמא",
+   "file": "Bava_Kamma.json",
+   "daf_count": 236,
+   "has_vocalized": false,
+   "first_daf": "2a",
+   "last_daf": "119b"
+  },
+  {
+   "en": "Bava Metzia",
+   "he": "בבא מציעא",
+   "file": "Bava_Metzia.json",
+   "daf_count": 235,
+   "has_vocalized": false,
+   "first_daf": "2a",
+   "last_daf": "119a"
+  },
+  {
+   "en": "Bava Batra",
+   "he": "בבא בתרא",
+   "file": "Bava_Batra.json",
+   "daf_count": 350,
+   "has_vocalized": true,
+   "first_daf": "2a",
+   "last_daf": "176b"
+  },
+  {
+   "en": "Sanhedrin",
+   "he": "סנהדרין",
+   "file": "Sanhedrin.json",
+   "daf_count": 224,
+   "has_vocalized": false,
+   "first_daf": "2a",
+   "last_daf": "113b"
+  },
+  {
+   "en": "Makkot",
+   "he": "מכות",
+   "file": "Makkot.json",
+   "daf_count": 46,
+   "has_vocalized": false,
+   "first_daf": "2a",
+   "last_daf": "24b"
+  },
+  {
+   "en": "Shevuot",
+   "he": "שבועות",
+   "file": "Shevuot.json",
+   "daf_count": 96,
+   "has_vocalized": false,
+   "first_daf": "2a",
+   "last_daf": "49b"
+  },
+  {
+   "en": "Avodah Zarah",
+   "he": "עבודה זרה",
+   "file": "Avodah_Zarah.json",
+   "daf_count": 150,
+   "has_vocalized": false,
+   "first_daf": "2a",
+   "last_daf": "76b"
+  },
+  {
+   "en": "Horayot",
+   "he": "הוריות",
+   "file": "Horayot.json",
+   "daf_count": 25,
+   "has_vocalized": false,
+   "first_daf": "2a",
+   "last_daf": "14a"
+  },
+  {
+   "en": "Zevachim",
+   "he": "זבחים",
+   "file": "Zevachim.json",
+   "daf_count": 238,
+   "has_vocalized": false,
+   "first_daf": "2a",
+   "last_daf": "120b"
+  },
+  {
+   "en": "Menachot",
+   "he": "מנחות",
+   "file": "Menachot.json",
+   "daf_count": 217,
+   "has_vocalized": false,
+   "first_daf": "2a",
+   "last_daf": "110a"
+  },
+  {
+   "en": "Chullin",
+   "he": "חולין",
+   "file": "Chullin.json",
+   "daf_count": 281,
+   "has_vocalized": false,
+   "first_daf": "2a",
+   "last_daf": "142a"
+  },
+  {
+   "en": "Bekhorot",
+   "he": "בכורות",
+   "file": "Bekhorot.json",
+   "daf_count": 119,
+   "has_vocalized": false,
+   "first_daf": "2a",
+   "last_daf": "61a"
+  },
+  {
+   "en": "Arakhin",
+   "he": "ערכין",
+   "file": "Arakhin.json",
+   "daf_count": 65,
+   "has_vocalized": false,
+   "first_daf": "2a",
+   "last_daf": "34a"
+  },
+  {
+   "en": "Temurah",
+   "he": "תמורה",
+   "file": "Temurah.json",
+   "daf_count": 65,
+   "has_vocalized": false,
+   "first_daf": "2a",
+   "last_daf": "34a"
+  },
+  {
+   "en": "Keritot",
+   "he": "כריתות",
+   "file": "Keritot.json",
+   "daf_count": 54,
+   "has_vocalized": false,
+   "first_daf": "2a",
+   "last_daf": "28b"
+  },
+  {
+   "en": "Meilah",
+   "he": "מעילה",
+   "file": "Meilah.json",
+   "daf_count": 41,
+   "has_vocalized": true,
+   "first_daf": "2a",
+   "last_daf": "22a"
+  },
+  {
+   "en": "Niddah",
+   "he": "נדה",
+   "file": "Niddah.json",
+   "daf_count": 143,
+   "has_vocalized": false,
+   "first_daf": "2a",
+   "last_daf": "73a"
+  },
+  {
+   "en": "Tamid",
+   "he": "תמיד",
+   "file": "Tamid.json",
+   "daf_count": 17,
+   "has_vocalized": false,
+   "first_daf": "25b",
+   "last_daf": "33b"
+  }
+ ]
+}
